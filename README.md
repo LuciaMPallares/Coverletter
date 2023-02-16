@@ -1,2 +1,0 @@
-# Coverletter
-Cover letter
