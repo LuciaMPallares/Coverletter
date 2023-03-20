@@ -7,7 +7,7 @@ I just finished a data analytics bootcamp by Ironhack. Now I feel comfortable wo
 
 I am willing to face challenges as data analyst. I can offer you data driven insights and solutions, as well as I have a nice mindset related to problem solving, resilience and adaptation.
 
-About work location, I live in Malaga so I have no problem with remote positions if were necessary or visit de office each moth in other city.
+About work location, I live in Malaga so I have no problem with remote positions if were necessary, or visit de office each moth in other city.
 
 If you desire to get in touch for hiring or projects do not hesitate to contact at luciamartinpallares@gmail.com
 
