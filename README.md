@@ -5,7 +5,7 @@ In my last job my tasks changed over the years. At the beginning, my main duties
 
 I just finished a data analytics bootcamp by Ironhack. Now I feel comfortable working with Python, and several libraries like Pandas, Numpy, matplot or seaborn. Also I have experience with SQL, and visualization tools as Power BI or Tableau. Those abilities make me able to find solutions, and help companies with their problems.
 
-I am willing to face challenges as data analyst. I can offer you data driven insights and solutions, as well as I have a nice mindset related to problem solving, resilience and adaptation. I feel comfortable to work independently as well as collaboratively with other team members and stakeholders.
+I am willing to face challenges as data analyst. I can offer you data driven insights and solutions, as well as I have a nice mindset related to problem solving, strong communication and analytics skills. I feel comfortable to work independently as well as collaboratively with other team members and stakeholders.
 
 About work location, I live in Malaga so I have no problem with remote positions if were necessary, or visit de office each moth in other city.
 
